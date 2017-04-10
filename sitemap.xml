@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/post/asecondone/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/post/welcome/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/categories/loremipsum/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/tags/loremipsum/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/categories/news/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/tags/news/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/post/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/tags/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/categories/test/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/tags/test/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

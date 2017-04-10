@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Loremipsum on Learning Hugo </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://ttoine.github.io/testing-gohugo/categories/loremipsum/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 10 Apr 2017 16:06:16 CEST</updated>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://ttoine.github.io/testing-gohugo/post/welcome/</link>
+      <pubDate>Mon, 10 Apr 2017 16:06:16 CEST</pubDate>
+      
+      <guid>https://ttoine.github.io/testing-gohugo/post/welcome/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus eu leo eu bibendum. Pellentesque laoreet nisi at eros ornare, vitae mollis lorem molestie. Pellentesque hendrerit dolor eros, non accumsan nibh tincidunt ut. Suspendisse lacinia convallis lorem ut pellentesque. Vestibulum nec ultrices dui. Vivamus ex ligula, varius vel arcu at, ornare sollicitudin arcu. Fusce vitae risus efficitur elit laoreet cursus vel ac neque. Vestibulum molestie, urna eget vestibulum aliquet, enim tellus lobortis massa, ac blandit risus ante nec nibh. Aliquam erat volutpat.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
