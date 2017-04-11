@@ -23,25 +23,25 @@
   </url>
   
   <url>
-    <loc>https://ttoine.github.io/testing-gohugo/categories/loremipsum/</loc>
-    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ttoine.github.io/testing-gohugo/tags/loremipsum/</loc>
     <lastmod>2017-04-10T16:06:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ttoine.github.io/testing-gohugo/categories/news/</loc>
-    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <loc>https://ttoine.github.io/testing-gohugo/categories/loremipsum/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ttoine.github.io/testing-gohugo/tags/news/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttoine.github.io/testing-gohugo/categories/news/</loc>
     <lastmod>2017-04-10T16:09:39+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -59,13 +59,13 @@
   </url>
   
   <url>
-    <loc>https://ttoine.github.io/testing-gohugo/categories/test/</loc>
+    <loc>https://ttoine.github.io/testing-gohugo/tags/test/</loc>
     <lastmod>2017-04-10T16:09:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ttoine.github.io/testing-gohugo/tags/test/</loc>
+    <loc>https://ttoine.github.io/testing-gohugo/categories/test/</loc>
     <lastmod>2017-04-10T16:09:39+02:00</lastmod>
     <priority>0</priority>
   </url>
